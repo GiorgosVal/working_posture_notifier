@@ -1,7 +1,11 @@
 # Working Posture Notifier
+## Description
 I recently gained an adjustable height desk. Studies show that alternating your working posture leads to fewer musculoskeletal problems and improved mental activity.
 
 So, what a better thing to do than to automate a notification that will remind you when to stand up and when to sit down? :grinning: :heart_eyes:
+
+## System requirements
+OS: MacOS
 
 ## Using the script
 The script can remind you to alternate between 2 postures, form a certain starting time to a certain end time. How much time you'll stay on each posture is also configurable.
